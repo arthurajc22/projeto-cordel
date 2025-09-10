@@ -1,6 +1,6 @@
 # Cordel Moderno
 
-Página desenvolvida em **HTML** e **CSS** .
+
 
 ---
 
@@ -24,7 +24,7 @@ Página desenvolvida em **HTML** e **CSS** .
 ---
 
 ## 🔗 Ver Projeto Online
-[![Ver Projeto Online](https://img.shields.io/badge/🌐%20Ver%20Projeto%20Online-008000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arthurajc22.github.io/mascote-android/)
+[![Ver Projeto Online](https://img.shields.io/badge/🌐%20Ver%20Projeto%20Online-008000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arthurajc22.github.io/projeto-cordel/)
 
 ---
 
